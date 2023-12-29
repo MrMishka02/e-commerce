@@ -7,8 +7,8 @@ const config = {
     './components/**/*.{ts,tsx}',
     './app/**/*.{ts,tsx}',
     './src/**/*.{ts,tsx}',
-	],
-  prefix: "tailwind.config.ts",
+  ],
+  prefix: "",
   theme: {
     container: {
       center: true,
